@@ -16,6 +16,7 @@ public class Main {
             System.out.println("3- To show all avaliable books tape : books ");
             System.out.println("4- To show all user tape  : users ");
             System.out.println("5- To close tape: exit ");
+            System.out.println("5- To close tape: exit ");
 
             Scanner TappedValue = new Scanner(System.in);  // Create a Scanner object
             String value = TappedValue.nextLine();  // Read user input
